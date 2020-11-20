@@ -42,7 +42,7 @@ Next, select the Cone, and create a new Shader Material. Edit that material, and
  * Dissolve Texture: New Noise Texture
   * Noise: New OpenSimplexNoise
 
-Finally, select the UI/ColorRect, and under Material->Material create a new Shader Material. Edit that material, and in the Shader parameter, Load res://Shaders/canvas_item/Fier.shader.
+Finally, select the UI/ColorRect, and under Material->Material create a new Shader Material. Edit that material, and in the Shader parameter, Load res://Shaders/canvas_item/Fire.shader.
 
 Save the scene, and Run the current scene. See how the shader materials interact with each of the objects.
 
